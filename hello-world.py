@@ -1,12 +1,11 @@
 # This is a python implementation of a Hello World! program.
 
 # This is so funky, editing a file before I make anoher change but retrospectively
-def print_hello():
-    print('Hello, World!')
-
-def print_goodbye():
-    print('Goodbye, World!')
+# function that prints a msg
+def print_msg(msg):
+    print(f"{msg}")
 
 
-print_hello()
-print_goodbye()
+
+print_msg('Hello, World!')
+print_msg('Goodbye, World!')
