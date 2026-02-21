@@ -6,6 +6,6 @@ def print_msg(msg):
     print(f"{msg}")
 
 
-
+# Add documentation to the main function
 print_msg('Hello, World!')
 print_msg('Goodbye, World!')
