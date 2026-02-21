@@ -6,6 +6,6 @@ def print_msg(msg):
     print(f"{msg}")
 
 
-# Add documentation to the main function
+# These commands run by defaul when our program starts
 print_msg('Hello, World!')
 print_msg('Goodbye, World!')
